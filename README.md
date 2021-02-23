@@ -3,7 +3,7 @@
 # create package.json
 npm init -y
 
-#install packages
+# install packages
 npm i express --save
 npm i pg
 
